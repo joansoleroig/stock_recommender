@@ -1,0 +1,501 @@
+user_id,sector,name,stock,weight
+0,Consumer Staples,Cassandra DavidCassandra David,KOMNST,32.756059707055925
+1,Health Care,Alexander Johnson,MTD,40.13831852268452
+2,Energy,Donna ShannonDonna ShannonDonna Shannon,CTRATRGPMPC,47.2188081888973
+3,Real Estate,Katherine RoachKatherine Roach,PLDCSGP,49.18826301928317
+4,Real Estate,Michelle PhillipsMichelle Phillips,REGDOC,29.36269017999737
+5,Industrials,Heather GreenHeather Green,DOVHII,31.84651364986169
+6,Industrials,Anthony HickmanAnthony HickmanAnthony HickmanAnthony Hickman,OTISGNRCUBERLMT,41.30515604211596
+7,Information Technology,Clifford GarciaClifford Garcia,TXNADI,28.445293677104118
+8,Industrials,Joyce CurtisJoyce CurtisJoyce Curtis,ADPFASTWM,35.67864246228911
+9,Industrials,Mary BrownMary BrownMary Brown,TXTSWKRTX,39.08400585925935
+10,Information Technology,Eduardo HooverEduardo Hoover,TRMBAVGO,28.73687600484982
+11,Real Estate,Patrick HudsonPatrick Hudson,CPTVTR,34.25062462131706
+12,Consumer Discretionary,Brianna ReedBrianna ReedBrianna ReedBrianna Reed,PHMRCLBBWIDPZ,47.91736334208159
+13,Information Technology,Gloria LynchGloria LynchGloria Lynch,ROPNTAPSWKS,42.29865177714091
+14,Financials,Keith MitchellKeith MitchellKeith Mitchell,COFSYFAIZ,49.16685636749733
+15,Consumer Discretionary,Sarah JonesSarah Jones,NCLHBBWI,59.350314062702274
+16,Industrials,Jonathan GibsonJonathan GibsonJonathan Gibson,JDAYMAS,31.189742353983764
+17,Consumer Discretionary,Kimberly MooreKimberly MooreKimberly Moore,LULUDHIMGM,26.485599609302017
+18,Industrials,Robert WigginsRobert WigginsRobert Wiggins,FTVURIUAL,52.813159114942934
+19,Consumer Staples,Michael Woods,TAP,54.18173811400189
+20,Industrials,Angela SerranoAngela SerranoAngela Serrano,TXTSWKRTX,35.56344313409203
+21,Health Care,Robert Reilly,CAH,28.75790100682318
+22,Information Technology,Renee TranRenee TranRenee Tran,VRSNAMATMU,38.61692019256971
+23,Health Care,Nichole MaldonadoNichole MaldonadoNichole Maldonado,ELVBMYDVA,62.21886025309935
+24,Industrials,Samuel HughesSamuel HughesSamuel Hughes,HONTDGFTV,34.03423955899753
+25,Financials,Diane LambDiane LambDiane LambDiane LambDiane LambDiane Lamb,FIALLCINFAIGPFGGPN,41.90480852923397
+26,Information Technology,Tammy HarrisTammy Harris,CTSHACN,24.44174085350121
+27,Real Estate,Michael Perez,VTR,27.241888086383977
+28,Financials,Samantha ReillySamantha ReillySamantha ReillySamantha Reilly,SYFMMCCNDAQ,64.55695560762865
+29,Health Care,Laura RobertsonLaura RobertsonLaura RobertsonLaura RobertsonLaura Robertson,HCACISYKWATTFX,52.61954453515957
+30,Health Care,Tony McbrideTony Mcbride,GILDBMY,39.17985521445321
+31,Real Estate,Ronald BrownRonald BrownRonald Brown,CPTDLRSBAC,36.40008364284561
+32,Industrials,Stephanie KellyStephanie Kelly,PHPCAR,27.62046461941111
+33,Consumer Staples,Larry KingLarry King,MNSTDG,37.140991664118516
+34,Health Care,Nancy JohnsonNancy Johnson,DHRSOLV,41.946251120474265
+35,Financials,Douglas SheaDouglas Shea,PFGAMP,43.645929223950944
+36,Industrials,Krystal SchwartzKrystal SchwartzKrystal SchwartzKrystal SchwartzKrystal Schwartz,NDSNEFXCARRAXONTXT,54.131547067947366
+37,Energy,Sara HillSara Hill,APAVLO,45.59511992645663
+38,Information Technology,Vanessa DavisVanessa DavisVanessa Davis,VRSNROPSTX,40.9711720370928
+39,Industrials,Vickie WashingtonVickie Washington,BALUV,62.6272255926798
+40,Information Technology,Jacob SmithJacob Smith,TELHPQ,35.21557478352272
+41,Health Care,Donna Hamilton,IQV,25.664831174167624
+42,Consumer Discretionary,Jessica Smith,GM,31.587832269321197
+43,Consumer Staples,Joshua WilsonJoshua Wilson,MDLZSJM,43.6101273426409
+44,Financials,Christine Bailey,FDS,26.333742361515306
+45,Information Technology,Laura EricksonLaura EricksonLaura Erickson,QCOMSNPSIBM,47.85999218479782
+46,Financials,Stacy JarvisStacy JarvisStacy JarvisStacy JarvisStacy Jarvis,NDAQCBOENTRSUSBMTB,59.81680398520169
+47,Health Care,Brian SullivanBrian Sullivan,JNJBAX,33.697830637438486
+48,Industrials,Joshua JacksonJoshua JacksonJoshua Jackson,TXTGNRCVRSK,49.61478667187521
+49,Financials,Stephanie FowlerStephanie Fowler,WRBACGL,39.16113142703441
+50,Financials,Courtney ChavezCourtney ChavezCourtney Chavez,METCFGICE,35.1636360658716
+51,Financials,Tina CrawfordTina Crawford,MCOTROW,30.858765423007867
+52,Industrials,Jack SmithJack SmithJack Smith,RTXAXONPAYX,40.10684812464774
+53,Industrials,Ronald PorterRonald PorterRonald Porter,BLDRTDGPAYX,22.285860280283337
+54,Information Technology,Donald ValenzuelaDonald Valenzuela,TXNMSI,28.07449078508094
+55,Health Care,Ashley FowlerAshley FowlerAshley Fowler,IQVCVSMRNA,29.31511130563543
+56,Consumer Staples,Russell HayesRussell Hayes,TSNWBA,40.482951089808566
+57,Financials,Alexandra RogersAlexandra Rogers,CTFC,61.3504067067251
+58,Energy,Deanna Pace,FANG,38.13189932916819
+59,Financials,Alexandra JenkinsAlexandra Jenkins,EGCB,32.014944338375585
+60,Financials,James HernandezJames Hernandez,KEYFDS,22.41048256838621
+61,Communication Services,Donna WaltonDonna Walton,EANFLX,41.09276501109646
+62,Health Care,Jeffery FlynnJeffery FlynnJeffery FlynnJeffery Flynn,DXCMTECHDVAGILD,45.90120339769119
+63,Communication Services,Bethany FernandezBethany Fernandez,TTWOPARA,39.97404283518785
+64,Health Care,Jordan GarciaJordan GarciaJordan GarciaJordan Garcia,JNJBAXCOOCI,37.00760199983201
+65,Industrials,Christy YoungChristy Young,CMIXYL,34.2070465290282
+66,Consumer Staples,Mary Rosario DVMMary Rosario DVM,KHCLW,50.79291718258672
+67,Communication Services,Rick MorrisRick Morris,CMCSANFLX,43.21282964260983
+68,Consumer Discretionary,Craig Mitchell,TJX,34.54036662913669
+69,Information Technology,Gabriela McclainGabriela Mcclain,INTUSWKS,35.45491729179494
+70,Information Technology,Sean LambSean LambSean Lamb,ADINXPIJNPR,44.556790397517126
+71,Industrials,David FlynnDavid Flynn,VRSKLHX,33.844323518624826
+72,Consumer Discretionary,James Munoz MDJames Munoz MD,ULTAHAS,44.34640866408607
+73,Consumer Staples,Chelsea DavisChelsea Davis,MOWMT,40.845549394026634
+74,Information Technology,Christopher PetersonChristopher PetersonChristopher Peterson,PTCINTCHPE,37.82454349189434
+75,Materials,Jessica RayJessica Ray,SHWNUE,41.88490540084576
+76,Financials,Laura Silva,NTRS,30.03225882679153
+77,Financials,Mary Fletcher,DFS,35.88135773158087
+78,Materials,John MooreJohn MooreJohn Moore,STLDNEMALB,29.84641946587562
+79,Financials,Bobby MeyerBobby Meyer,CINFTROW,26.834633004068657
+80,Communication Services,Richard GuzmanRichard Guzman,VZLYV,40.54138519018619
+81,Financials,Marc GrayMarc GrayMarc Gray,DFSGLWFC,34.49485060063789
+82,Industrials,Tina CampbellTina CampbellTina Campbell,ROLGDHON,34.05497078338523
+83,Consumer Discretionary,Maria BrownMaria BrownMaria Brown,WYNNBWACMG,53.92851312849935
+84,Industrials,Hayden WhiteHayden White,DEBLDR,52.48132178485666
+85,Health Care,Joseph HallJoseph HallJoseph HallJoseph Hall,ZBHTECHMDTVRTX,51.543529102515976
+86,Information Technology,Sherry MillsSherry Mills,FSLRLRCX,31.4092182497407
+87,Information Technology,Carlos JeffersonCarlos Jefferson,GENAVGO,31.706658676456684
+88,Consumer Discretionary,Linda Mata PhDLinda Mata PhD,CCLHD,35.371607643844136
+89,Utilities,Mark MorganMark Morgan,CMSPNW,31.910768377128335
+90,Financials,Bobby MorrisonBobby MorrisonBobby Morrison,AXPCPAYRF,46.88044798944598
+91,Health Care,Edward Randolph,MDT,49.999998341046584
+92,Energy,Richard DavisRichard Davis,VLOKMI,36.37270761271765
+93,Utilities,Heather Phelps MD,NI,30.721546087890356
+94,Health Care,Drew DyerDrew DyerDrew Dyer,RVTYMTDCTLT,32.82208913669135
+95,Financials,Jennifer CarterJennifer Carter,METWTW,24.501389034705973
+96,Industrials,Eric Cortez,MMM,40.35815557763786
+97,Health Care,Ashley BrooksAshley Brooks,MRNAINCY,54.30913651283372
+98,Health Care,Thomas DavisThomas DavisThomas Davis,ZTSBDXBIO,48.38841077631487
+99,Industrials,Grant PrestonGrant PrestonGrant Preston,RHIFASTCAT,42.171331432308556
+100,Consumer Discretionary,Melissa CunninghamMelissa Cunningham,RLBKNG,48.127095438879394
+101,Materials,Shane ThomasShane Thomas,AVYCE,45.45817543056115
+102,Health Care,Richard MeltonRichard Melton,WSTGILD,57.94993612969509
+103,Consumer Discretionary,Rebecca BeardRebecca Beard,RLAMZN,28.061272761748256
+104,Consumer Discretionary,Eric CampbellEric Campbell,RCLHD,35.64306904687849
+105,Financials,Rebecca KennedyRebecca KennedyRebecca Kennedy,CBOEWRBTRV,31.645113266245048
+106,Information Technology,William StuartWilliam Stuart,TELCDNS,37.51479303658917
+107,Financials,William ReyesWilliam ReyesWilliam Reyes,AXPBROWFC,47.70195978390105
+108,Materials,Bradley ThomasBradley Thomas,DDAMCR,47.747194300805226
+109,Real Estate,Megan HowardMegan Howard,AMTVICI,27.15872004629002
+110,Real Estate,Christian CareyChristian Carey,PSAEQIX,34.25126677370962
+111,Information Technology,Mary BarkerMary BarkerMary BarkerMary Barker,NTAPNOWMSFTFSLR,64.60776860821423
+112,Health Care,Kathy Carter,A,25.82455931439085
+113,Utilities,Margaret Taylor,NEE,27.185784646633316
+114,Utilities,Emily Dawson,EVRG,34.07358415088812
+115,Consumer Staples,Kristin Romero,KVUE,37.92024225241198
+116,Consumer Discretionary,Christopher WallaceChristopher WallaceChristopher Wallace,WYNNBWACMG,37.62995370988518
+117,Industrials,Alejandro ThorntonAlejandro Thornton,UPSROL,33.77060890985274
+118,Industrials,John WhitneyJohn WhitneyJohn Whitney,MASJBHTPAYX,42.035946744056425
+119,Materials,Kari HuntKari HuntKari Hunt,PPGPKGLIN,35.3048314557433
+120,Consumer Staples,Jordan Fox,LW,28.833211979985307
+121,Health Care,Thomas BlairThomas BlairThomas Blair,MRNACTLTALGN,42.53207591124315
+122,Industrials,Rachel RamosRachel RamosRachel Ramos,PHMMMFTV,29.61839467441289
+123,Financials,Jonathan RobertsonJonathan RobertsonJonathan Robertson,CBCFGAFL,47.83027582778861
+124,Industrials,Renee BoydRenee BoydRenee Boyd,PNRHUBBDOV,36.56464766149633
+125,Consumer Staples,Holly PowellHolly Powell,TGTCPB,22.4941196919049
+126,Utilities,William Rodriguez,PPL,24.55582418319258
+127,Consumer Staples,Ronnie BrownRonnie Brown,ELTAP,34.18069211878533
+128,Industrials,Jonathan RogersJonathan Rogers,BALMT,48.43161990053552
+129,Energy,Barbara HamiltonBarbara HamiltonBarbara Hamilton,VLODVNEQT,41.71570831856109
+130,Consumer Discretionary,Kevin MillerKevin MillerKevin Miller,MCDETSYBBY,35.4616908126121
+131,Information Technology,James LopezJames Lopez,TELNOW,30.11918011352088
+132,Real Estate,Daniel JohnsonDaniel Johnson,ODOC,22.643467666423636
+133,Financials,Susan RiveraSusan RiveraSusan Rivera,BKWTWMCO,31.875585441306335
+134,Utilities,Jaime Martinez,XEL,48.26094120702058
+135,Energy,Amber CoxAmber Cox,KMIVLO,36.871548971580886
+136,Real Estate,Katie Murray,SBAC,27.066821792895464
+137,Financials,Stacy MarshallStacy MarshallStacy Marshall,AMPMTBBLK,43.51857151438075
+138,Health Care,Thomas Cooke,ELV,44.11837558314066
+139,Financials,Jeffrey HarrisonJeffrey HarrisonJeffrey Harrison,KEYICEMKTX,53.48768922519659
+140,Health Care,Beth HarrisBeth HarrisBeth HarrisBeth Harris,TECHHOLXBAXRMD,63.00316463035571
+141,Energy,George BridgesGeorge Bridges,TRGPOXY,43.46555118354335
+142,Consumer Staples,Aaron BrownAaron Brown,PMHRL,37.73966767835329
+143,Consumer Staples,Heather Castillo MDHeather Castillo MDHeather Castillo MDHeather Castillo MD,CLXSYYSTZMNST,34.01141547959933
+144,Consumer Discretionary,Diana Love,PHM,30.296682653446027
+145,Industrials,Natalie SimpsonNatalie Simpson,XYLPWR,47.86865785700932
+146,Communication Services,Sarah Arnold,VZ,26.296256257544044
+147,Health Care,Wendy Rogers,MCK,33.366506892907125
+148,Health Care,Chad OwensChad OwensChad Owens,GILDJNJVTRS,35.895636517932346
+149,Materials,Jean MccannJean Mccann,EMNNUE,42.15005230141461
+150,Financials,Megan YangMegan Yang,FIBAC,55.17249930310278
+151,Health Care,Lisa Schmidt,WAT,37.92279456387059
+152,Industrials,Jeremy Larson DDSJeremy Larson DDSJeremy Larson DDS,MASGECMI,42.838081810597515
+153,Financials,Jamie MendozaJamie MendozaJamie Mendoza,AMPMTBBLK,34.134878657896294
+154,Financials,Robert RobinsonRobert RobinsonRobert RobinsonRobert RobinsonRobert Robinson,RJFMSCBTRVMKTX,47.505614125670625
+155,Financials,Christine FowlerChristine FowlerChristine Fowler,MACMAJKHY,33.343185661014815
+156,Information Technology,Ronald JordanRonald JordanRonald Jordan,SNPSMSFTAPH,32.59770526828313
+157,Industrials,William FryeWilliam FryeWilliam Frye,FDXVRSKTXT,43.97040887934985
+158,Industrials,Michael BrooksMichael BrooksMichael Brooks,CATSNARSG,40.934187601915106
+159,Consumer Discretionary,Michelle SmithMichelle Smith,GPCTSLA,47.11760898317006
+160,Consumer Discretionary,Mark PooleMark PooleMark Poole,NCLHHLTAPTV,45.20254801300438
+161,Health Care,Joshua PhillipsJoshua PhillipsJoshua PhillipsJoshua Phillips,CRLELVHSICISRG,53.65418015308418
+162,Consumer Discretionary,Joseph ThomasJoseph ThomasJoseph ThomasJoseph Thomas,WYNNGMMCDMHK,50.395052119562564
+163,Materials,Bryce MillerBryce Miller,PPGSTLD,47.88175695740668
+164,Energy,Judith Arnold,APA,22.91011457091656
+165,Information Technology,Mary Donaldson,AAPL,29.27934069403672
+166,Industrials,Jessica HardingJessica HardingJessica Harding,NDSNSWKJBHT,50.4507104319418
+167,Health Care,Kristi Leonard,UHS,28.470692403647757
+168,Financials,Jay HillJay HillJay Hill,AIGGPNICE,31.02309490332447
+169,Consumer Discretionary,Michael MartinMichael MartinMichael Martin,DHIORLYKMX,37.583789205362166
+170,Industrials,Luis RobinsonLuis RobinsonLuis RobinsonLuis Robinson,AXONJCIOTISMMM,72.0931901629096
+171,Materials,Daniel Sawyer,PKG,46.08060177679568
+172,Information Technology,James HarrisJames HarrisJames Harris,FFIVMSIWDC,25.28805738468047
+173,Financials,Ronald RodriguezRonald RodriguezRonald RodriguezRonald Rodriguez,FDSCAIGTRV,28.477031966392644
+174,Industrials,Charles Lopez,GE,41.422137652556415
+175,Financials,Logan WoodardLogan WoodardLogan Woodard,MMCBLKBEN,34.40161834676178
+176,Consumer Discretionary,Philip LucasPhilip Lucas,ROSTETSY,33.43940089143443
+177,Consumer Discretionary,Johnny JeffersonJohnny Jefferson,MCDTSLA,29.805645864833508
+178,Industrials,Karen StevensonKaren Stevenson,AALRSG,34.99697536157325
+179,Information Technology,Michael JohnsonMichael Johnson,TELCDNS,28.817236186710034
+180,Health Care,Danny MartinDanny MartinDanny MartinDanny Martin,RVTYIQVCORBMY,49.86698201840371
+181,Industrials,Shirley JonesShirley JonesShirley JonesShirley Jones,ITWVLTOJCIPAYC,60.3396323450591
+182,Consumer Discretionary,Tyrone Moore,LKQ,45.01407749951405
+183,Financials,Frank KellyFrank KellyFrank Kelly,ALLMANTRS,25.53302487630546
+184,Health Care,Steven BrownSteven Brown,ABTINCY,52.685705757162054
+185,Industrials,Michael MooreMichael Moore,DAYUBER,26.341185445600555
+186,Financials,Thomas DelgadoThomas DelgadoThomas DelgadoThomas Delgado,FDSCAIGTRV,69.29859759366394
+187,Information Technology,Karen MckenzieKaren MckenzieKaren Mckenzie,TERADBECTSH,42.95597531350256
+188,Energy,Erica HillErica HillErica Hill,COPMROOXY,42.04437250640562
+189,Real Estate,Evelyn HuertaEvelyn Huerta,BXPCCI,40.34113339815906
+190,Information Technology,Christopher FlemingChristopher Fleming,ADIADBE,34.901940411429294
+191,Consumer Discretionary,Alexandra Watson,LULU,39.1973565776617
+192,Industrials,Xavier GreerXavier Greer,DOVITW,28.51134506904177
+193,Materials,Danielle Church,CTVA,23.101171858407525
+194,Financials,Mary JohnsonMary Johnson,CFGIVZ,42.13510304468308
+195,Health Care,Phillip WilliamsPhillip WilliamsPhillip Williams,RMDVTRSMTD,27.20234151151117
+196,Information Technology,Crystal FreemanCrystal Freeman,ANETEPAM,46.959183340072734
+197,Industrials,Brandon WeaverBrandon WeaverBrandon Weaver,CPRTAALCSX,30.17909062091827
+198,Real Estate,Jessica PierceJessica Pierce,PSAREG,43.90381447745594
+199,Health Care,Crystal McguireCrystal Mcguire,TECHPFE,37.923056969567206
+200,Health Care,Donald BennettDonald BennettDonald Bennett,IQVMCKABBV,32.355034835556
+201,Financials,Kristi DavisKristi DavisKristi Davis,AONPRUNDAQ,49.31205351299826
+202,Information Technology,Crystal GloverCrystal Glover,FTNTPTC,46.79881166534561
+203,Information Technology,Morgan Cunningham,QCOM,27.625301931140704
+204,Financials,Thomas OrozcoThomas Orozco,WFCNTRS,32.34871780495599
+205,Consumer Staples,Jimmy Allen,HSY,44.96889551040065
+206,Health Care,Sergio Mckinney,STE,25.81168039424082
+207,Consumer Staples,Dawn Alvarado,KDP,38.391272538263635
+208,Health Care,William ColeWilliam ColeWilliam Cole,STEHUMHCA,30.918963490471278
+209,Health Care,Suzanne Lopez,CI,23.233833200716223
+210,Financials,Emily LoweryEmily LoweryEmily Lowery,BRORJFTROW,35.06249073406852
+211,Information Technology,Cassandra BellCassandra Bell,ROPIT,39.26411596112715
+212,Health Care,Daniel Kelley,HOLX,26.90828876013721
+213,Information Technology,Amanda SmithAmanda Smith,ZBRAFICO,26.28618970944269
+214,Financials,Leah BaileyLeah Bailey,EGGS,40.1477558262764
+215,Energy,Christopher Jackson,COP,44.98445144466562
+216,Industrials,Anthony IbarraAnthony Ibarra,VLTOHWM,24.826387736210222
+217,Consumer Discretionary,Charles KennedyCharles Kennedy,BBWIDRI,27.666444578871552
+218,Industrials,David JuarezDavid JuarezDavid JuarezDavid Juarez,CPRTJBHTHUBBPH,68.70447428257772
+219,Materials,Mr. Danny HughesMr. Danny Hughes,DOWFMC,23.16474515438126
+220,Information Technology,Ian Freeman,EPAM,34.27296639905411
+221,Information Technology,Julian RobertsJulian Roberts,ENPHNVDA,36.52270922567038
+222,Industrials,Angela RobbinsAngela RobbinsAngela RobbinsAngela Robbins,NDSNJCIEMRADP,43.34327970321981
+223,Consumer Discretionary,Jennifer GriffinJennifer GriffinJennifer GriffinJennifer Griffin,BKNGLULUBWANKE,59.58517812459621
+224,Information Technology,Cheryl YoungCheryl YoungCheryl YoungCheryl Young,MSFTMCHPKLACCRM,50.23665654402275
+225,Consumer Staples,Shelby Clark,COST,23.49277525028532
+226,Information Technology,Vincent VazquezVincent VazquezVincent Vazquez,CRMSTXANSS,38.4097119219897
+227,Information Technology,Timothy ReedTimothy Reed,INTCTXN,23.44572126181746
+228,Financials,Jennifer Erickson,WTW,51.82264121234085
+229,Energy,Todd MurrayTodd Murray,CVXVLO,53.344380322212395
+230,Information Technology,Mathew PattersonMathew PattersonMathew PattersonMathew Patterson,SMCITYLPANWSWKS,64.86348344596375
+231,Industrials,Tina MccarthyTina MccarthyTina Mccarthy,HUBBTDGIEX,34.19312706209485
+232,Information Technology,Katherine AvilaKatherine AvilaKatherine Avila,ENPHQCOMTER,37.75848408946963
+233,Information Technology,Francisco HicksFrancisco Hicks,AMATGLW,29.799523132175672
+234,Materials,Steven Taylor,FCX,50.440171265907175
+235,Industrials,Bill OliverBill Oliver,UPSCMI,42.655814997682405
+236,Financials,William KiddWilliam Kidd,WRBMKTX,37.24967945005612
+237,Consumer Staples,Jessica SmithJessica SmithJessica SmithJessica Smith,CLXPGTGTBG,42.3029438990711
+238,Financials,Sarah MccannSarah MccannSarah Mccann,AJGBENPNC,37.76813188044845
+239,Health Care,Russell KingRussell King,MTDMCK,36.30217095061849
+240,Health Care,Erica Dominguez,UNH,25.021021592599418
+241,Consumer Discretionary,Jesus WolfJesus Wolf,CCLPOOL,30.240935111553398
+242,Consumer Staples,Andrea ReedAndrea Reed,WMTGIS,50.45913308091858
+243,Consumer Discretionary,Anthony HallAnthony Hall,LVSTSLA,28.824500765407876
+244,Information Technology,Jordan BirdJordan BirdJordan Bird,QCOMITQRVO,44.66010426972553
+245,Industrials,Wesley BrownWesley BrownWesley BrownWesley Brown,LUVNSCROKMMM,56.97134529967121
+246,Industrials,Kevin MedinaKevin Medina,TDGPNR,34.31456837889824
+247,Utilities,Joseph WilsonJoseph Wilson,WECEIX,34.42522949941227
+248,Consumer Discretionary,Hannah Serrano,TPR,22.259077045961796
+249,Real Estate,Clinton EdwardsClinton Edwards,INVHEQIX,27.517422793600716
+250,Health Care,Matthew TorresMatthew TorresMatthew TorresMatthew Torres,STEHSICSYKBDX,36.410136512642815
+251,Health Care,Geoffrey CraigGeoffrey CraigGeoffrey Craig,ABTAIDXX,43.74584950697816
+252,Real Estate,Megan Bell,VTR,32.77931995305322
+253,Health Care,Kimberly AndersonKimberly AndersonKimberly Anderson,MRNAIQVREGN,50.714057448029344
+254,Health Care,Amy DanielAmy Daniel,RVTYTMO,45.88451363161754
+255,Real Estate,Craig LoweryCraig Lowery,EXRAMT,24.65801801012111
+256,Communication Services,Jeremiah Allen,IPG,21.64730823524654
+257,Financials,Kim CarpenterKim CarpenterKim Carpenter,EGCMACINF,29.310375688243294
+258,Financials,Andrea MartinezAndrea MartinezAndrea Martinez,DFSPFGSCHW,35.1899517651011
+259,Energy,Melissa DavisMelissa Davis,OXYVLO,45.77267994626658
+260,Financials,Alicia MorrowAlicia Morrow,TROWC,27.566065459312306
+261,Health Care,Kim EllisKim EllisKim Ellis,HCARMDMTD,51.71650711242234
+262,Financials,Andrew WellsAndrew Wells,WFCCPAY,41.93899845013678
+263,Financials,Jason AndersonJason AndersonJason Anderson,KEYNTRSAIG,52.09972761510823
+264,Financials,Kenneth WatsonKenneth WatsonKenneth Watson,KEYNTRSAIG,40.427686034474306
+265,Consumer Discretionary,Randy DillonRandy DillonRandy Dillon,TSLAGMEBAY,53.652337329999355
+266,Real Estate,Mr. Lawrence Webster MDMr. Lawrence Webster MD,PSAREG,33.92090073372435
+267,Financials,Christine JohnsonChristine Johnson,STTPGR,34.80036192055899
+268,Industrials,Heidi MerrittHeidi Merritt,GEGD,34.36498740605762
+269,Utilities,Jessica Knight,PCG,52.341852092223974
+270,Consumer Staples,Michael FarleyMichael Farley,ELTAP,21.704287296745306
+271,Utilities,Peggy Hughes,EXC,28.23550984349526
+272,Real Estate,Sarah PerezSarah PerezSarah Perez,OCCIPSA,37.53375628354636
+273,Utilities,James Roberts,DTE,35.62832392013139
+274,Financials,Darrell TateDarrell TateDarrell Tate,WFCBACWTW,56.46850599029309
+275,Consumer Staples,Juan GreeneJuan Greene,CAGMDLZ,41.047128695141154
+276,Real Estate,Shannon Murray,MAA,24.149614512297767
+277,Industrials,Sherry Flores,HUBB,28.86839839980374
+278,Financials,Dennis McdonaldDennis McdonaldDennis Mcdonald,BKWTWMCO,42.26834558967441
+279,Industrials,Amy RobertsonAmy Robertson,PCARBLDR,37.448012476889375
+280,Communication Services,Laura WolfeLaura Wolfe,NWSAMETA,37.7157859152796
+281,Energy,Jennifer MooreJennifer Moore,KMIAPA,57.41087875911951
+282,Information Technology,Pamela ChapmanPamela ChapmanPamela ChapmanPamela Chapman,MSFTMCHPKLACCRM,60.759622147099535
+283,Real Estate,Laura ReynoldsLaura Reynolds,FRTVICI,50.85334332040861
+284,Information Technology,Michael AtkinsonMichael Atkinson,FFIVCDNS,46.96291412870804
+285,Consumer Staples,Ashley Smith,CL,36.90401925282109
+286,Real Estate,Paul JacksonPaul Jackson,ESSFRT,41.04143926336691
+287,Consumer Discretionary,Ricky HuntRicky HuntRicky Hunt,MCDETSYBBY,44.57257381174104
+288,Industrials,Valerie SimsValerie SimsValerie SimsValerie Sims,FDXPAYXUBERBLDR,64.06604343128365
+289,Financials,Justin ChambersJustin ChambersJustin Chambers,CINFBLKAIZ,29.712539676750147
+290,Information Technology,Eric CarpenterEric Carpenter,ORCLANET,29.228743045452216
+291,Information Technology,Courtney DuncanCourtney DuncanCourtney Duncan,ENPHTERQRVO,34.542222902978075
+292,Industrials,Ralph CarrRalph CarrRalph Carr,BRRTXMAS,61.46126645444235
+293,Industrials,Tony DanielsTony DanielsTony Daniels,UALPAYCAOS,36.32774013501975
+294,Financials,Nicole Johnson MDNicole Johnson MD,GSAON,33.21931800510767
+295,Consumer Discretionary,Shawn MelendezShawn MelendezShawn MelendezShawn Melendez,KMXCMGMARETSY,31.5125382820995
+296,Consumer Staples,Patrick Foley,MO,37.12725489883712
+297,Utilities,Ricky Jackson,EXC,47.70251659872722
+298,Health Care,Sarah EvansSarah EvansSarah EvansSarah Evans,DXCMTECHDVAGILD,37.373884858296016
+299,Health Care,Kathleen HumphreyKathleen Humphrey,BIOBDX,30.913542034498963
+300,Energy,Lisa Huffman,EQT,38.694747149958765
+301,Information Technology,Lawrence Shelton II,JNPR,36.438292001639894
+302,Industrials,Tracy WarnerTracy Warner,BALUV,31.20390707841659
+303,Utilities,Allison Smith,NI,31.614290517617512
+304,Health Care,Thomas BlackThomas BlackThomas Black,CNCSYKGEHC,39.065295005186826
+305,Consumer Discretionary,Meghan FigueroaMeghan FigueroaMeghan FigueroaMeghan Figueroa,PHMRCLBBWIDPZ,39.51017290480319
+306,Consumer Staples,Emily Williams,KHC,29.271614413701723
+307,Industrials,Carla AvilaCarla Avila,ROLDAL,33.54051793167057
+308,Utilities,Ryan Conrad,VST,33.61641976824699
+309,Health Care,Earl LivingstonEarl Livingston,CNCCOR,34.05083030823567
+310,Financials,Jacqueline MooreJacqueline Moore,ICEMCO,43.669637771474456
+311,Financials,Brad WebbBrad WebbBrad Webb,CBMTBPGR,53.800969229846345
+312,Consumer Discretionary,Ariana WilliamsAriana Williams,BBWIBKNG,27.300457903777588
+313,Consumer Discretionary,John DiazJohn Diaz,NCLHBBWI,36.205915126637095
+314,Information Technology,Daniel GonzalezDaniel Gonzalez,HPECDW,33.726420381879876
+315,Information Technology,Shannon McdonaldShannon Mcdonald,JBLENPH,28.752182708609578
+316,Utilities,Christina Carter,EXC,28.373751323400764
+317,Information Technology,Emma CummingsEmma Cummings,CRMQCOM,24.2722918074838
+318,Financials,Vincent FrancoVincent FrancoVincent FrancoVincent Franco,TFCAMPCAJG,56.312024493575194
+319,Communication Services,Desiree Spencer,WBD,30.28020586684625
+320,Financials,Scott SmithScott Smith,STTWFC,28.154338319988664
+321,Financials,Brian WareBrian WareBrian Ware,CINFBLKAIZ,28.891859631234766
+322,Consumer Staples,Abigail FryAbigail Fry,KHCCHD,30.81339185501648
+323,Utilities,Tiffany HernandezTiffany Hernandez,AEEETR,47.71777851689664
+324,Financials,Melissa WheelerMelissa WheelerMelissa Wheeler,PRUCBJKHY,50.82064041042668
+325,Utilities,Tammy SmithTammy Smith,PEGPPL,43.55532512091074
+326,Health Care,Brent VillaBrent VillaBrent Villa,ABBVINCYBSX,37.18171796164724
+327,Consumer Discretionary,Ruben DavisRuben Davis,DHICZR,29.379730908333528
+328,Consumer Discretionary,Aaron KellerAaron KellerAaron Keller,TJXTSCORCL,30.379363624481154
+329,Financials,Raymond GrayRaymond Gray,CAFL,40.3716410355211
+330,Real Estate,Meredith OlsonMeredith Olson,VTRMAA,29.965367577043132
+331,Health Care,Justin Irwin,IDXX,35.97160947507907
+332,Financials,Angie SinghAngie Singh,EGNTRS,40.168608777280575
+333,Energy,Keith JohnsonKeith JohnsonKeith Johnson,EQTVLOMRO,62.65416224439507
+334,Consumer Staples,Travis CookTravis Cook,KVUEEL,26.239569967067094
+335,Industrials,Brett FrenchBrett FrenchBrett French,VRSKAMEAOS,59.718880268388666
+336,Information Technology,Roger PorterRoger Porter,NOWGLW,34.059474319118934
+337,Consumer Discretionary,Timothy KellyTimothy Kelly,DECKBKNG,25.60568268222888
+338,Consumer Staples,Hunter Morris,BG,29.61855167942359
+339,Information Technology,Paul WattsPaul WattsPaul Watts,FTNTNVDAON,39.454315630351914
+340,Consumer Discretionary,Pamela Norris,F,42.272167930488976
+341,Information Technology,Amanda CoxAmanda CoxAmanda Cox,CDNSGLWSMCI,71.37831579346135
+342,Materials,Mark CurtisMark CurtisMark Curtis,FCXCTVAECL,42.39295002529345
+343,Information Technology,Gregory SuarezGregory Suarez,LRCXFSLR,40.733420660809095
+344,Materials,Kelly Ford,ECL,37.94122073785826
+345,Industrials,Michele Dawson MDMichele Dawson MDMichele Dawson MDMichele Dawson MDMichele Dawson MDMichele Dawson MD,NOCMMMPCARAXONIRUBER,83.60671907553207
+346,Consumer Discretionary,Todd PhillipsTodd Phillips,FKMX,29.31565706859552
+347,Industrials,Brandi DavisBrandi Davis,MMMGNRC,32.39919944272135
+348,Health Care,Hailey EnglishHailey English,ACOR,28.541596570818935
+349,Financials,Robert SullivanRobert SullivanRobert Sullivan,FDSBACCBOE,35.03071709247363
+350,Information Technology,Stephen CantrellStephen Cantrell,TYLQRVO,41.76021806438717
+351,Health Care,Mariah VargasMariah Vargas,ZBHIQV,24.833752790061027
+352,Consumer Discretionary,Jamie LeonJamie Leon,HLTEBAY,53.15743740404781
+353,Industrials,Donna CookDonna CookDonna Cook,JCIDAYMAS,35.534224323665555
+354,Consumer Discretionary,Tyler CampbellTyler CampbellTyler CampbellTyler CampbellTyler Campbell,GMLULUDRINVRDECK,73.82826104980644
+355,Industrials,Lisa Johnson,BA,31.178691925883477
+356,Industrials,Cory HartCory HartCory Hart,JCIALLEHWM,42.54084394039053
+357,Consumer Staples,Michael Singleton,KO,28.22211169087454
+358,Industrials,Yvonne FrostYvonne FrostYvonne Frost,FDXITWUPS,41.183746610806075
+359,Financials,Barbara SmithBarbara SmithBarbara Smith,FDSAXPJPM,34.38053262756998
+360,Industrials,David CraigDavid Craig,JBHTIR,25.96235077222608
+361,Energy,Donald HarrisDonald Harris,COPDVN,28.554506293601637
+362,Materials,Michelle CaseMichelle Case,NUEAVY,39.70418090219324
+363,Health Care,Amanda LeachAmanda Leach,HUMMTD,49.14838830477386
+364,Consumer Staples,Cheryl Smith,TAP,33.176704696845285
+365,Health Care,Blake GarciaBlake Garcia,BMYMDT,23.167920672716303
+366,Consumer Discretionary,Mark HolmesMark Holmes,DECKBKNG,52.0371817473063
+367,Communication Services,Isabel CareyIsabel Carey,NWSACMCSA,47.05909967054947
+368,Information Technology,Jerry JensenJerry JensenJerry Jensen,LRCXAMDEPAM,45.51180786364418
+369,Utilities,Sandra Howard,SO,26.244004029222634
+370,Health Care,Craig MartinezCraig MartinezCraig MartinezCraig Martinez,STEHSICSYKBDX,35.757162720960444
+371,Consumer Discretionary,Dennis FlemingDennis Fleming,KMXDPZ,25.599557559025275
+372,Financials,Kristin PetersonKristin Peterson,FDSTROW,53.46546832066248
+373,Industrials,Corey HillCorey Hill,FASTPNR,27.049203911898893
+374,Financials,Michael AdamsMichael AdamsMichael Adams,USBRFGPN,30.75708370775549
+375,Information Technology,Charles OwensCharles OwensCharles OwensCharles Owens,MSFTMCHPKLACCRM,64.4053147273878
+376,Utilities,Andrew PierceAndrew PierceAndrew Pierce,AWKWECD,44.94327747937333
+377,Industrials,Calvin HartCalvin HartCalvin HartCalvin Hart,ALLEPNRCARRROK,36.84465334565928
+378,Consumer Staples,Michael MunozMichael Munoz,MDLZHRL,43.803256319225596
+379,Utilities,Craig FriedmanCraig Friedman,ETRAEP,37.44156118281443
+380,Consumer Discretionary,Maria LynchMaria Lynch,ROSTETSY,27.75727267932325
+381,Information Technology,Erica RosalesErica Rosales,MPWRLRCX,28.15360895273174
+382,Health Care,Mason FranklinMason FranklinMason FranklinMason Franklin,CRLELVHSICISRG,32.652632086434245
+383,Consumer Discretionary,Hunter PalmerHunter Palmer,POOLEBAY,62.44150586053653
+384,Financials,Henry HarrisHenry HarrisHenry HarrisHenry Harris,MCOHBANBKCFG,67.30514055039323
+385,Consumer Discretionary,Kyle Oneal DVMKyle Oneal DVM,HLTMGM,32.52268174671677
+386,Financials,Andrea TorresAndrea TorresAndrea Torres,BROBLKCMA,47.2451402034173
+387,Utilities,Morgan Clayton,ES,31.9827820068728
+388,Health Care,Edward MooreEdward Moore,ZTSGILD,35.13668946761409
+389,Information Technology,Kyle RiceKyle Rice,CTSHHPQ,36.43663321042127
+390,Financials,Brandy Douglas MDBrandy Douglas MDBrandy Douglas MD,DFSPFGSCHW,57.762645185614645
+391,Communication Services,Benjamin CollinsBenjamin Collins,NWSCHTR,24.732323357973357
+392,Utilities,Christopher DavisChristopher Davis,CEGED,37.14711782799187
+393,Information Technology,Beth FoxBeth Fox,EPAMTDY,32.53714034072032
+394,Consumer Discretionary,Christopher HamiltonChristopher Hamilton,MCDETSY,30.09872033415884
+395,Energy,Louis Matthews,EOG,30.06957230545777
+396,Industrials,Elizabeth BarronElizabeth Barron,UPSOTIS,31.755780941201174
+397,Consumer Staples,Clarence WhiteClarence White,MOWBA,36.272993631902345
+398,Financials,Catherine WoodCatherine Wood,TROWBX,41.692817961497106
+399,Information Technology,Michele EllisMichele EllisMichele Ellis,ANSSMSIAAPL,51.984862052453536
+400,Health Care,Nicole TranNicole TranNicole TranNicole TranNicole Tran,VRTXABTZBHPFEMTD,48.3974002630138
+401,Consumer Discretionary,Paige SchroederPaige SchroederPaige SchroederPaige Schroeder,KMXCMGMARETSY,43.97279163797509
+402,Consumer Discretionary,Jessica Merritt,TSCO,33.2501083955649
+403,Industrials,Tiffany RossTiffany Ross,PNRNSC,38.51423555166671
+404,Real Estate,Brittany AndersonBrittany Anderson,REGIRM,24.949684080182173
+405,Health Care,John RileyJohn Riley,MRNABSX,61.420729739489445
+406,Information Technology,Allen Stevens,CTSH,27.787523694254773
+407,Real Estate,Mark GonzalezMark Gonzalez,PSADLR,29.40579906329973
+408,Health Care,Eric JohnsonEric JohnsonEric Johnson,ELVBMYDVA,32.53639662449375
+409,Consumer Staples,Tiffany Vincent,WBA,31.84097476529221
+410,Information Technology,Scott Garcia,ANET,35.58748083416933
+411,Information Technology,Edgar LynnEdgar LynnEdgar Lynn,CDNSAMATIBM,55.3208553437063
+412,Utilities,William WilliamsWilliam Williams,SOETR,28.0717121243498
+413,Communication Services,Alexis BurtonAlexis Burton,GOOGNWS,45.27808845128722
+414,Industrials,John MccarthyJohn Mccarthy,WMGNRC,39.433135208970796
+415,Utilities,Bailey JonesBailey Jones,EXCDTE,38.48591061283772
+416,Industrials,Alicia FryeAlicia FryeAlicia FryeAlicia FryeAlicia Frye,MMMBLDRUPSCPRTBR,34.803100339469
+417,Financials,Andrew MartinezAndrew MartinezAndrew MartinezAndrew Martinez,MACRJFAIG,46.84917294869041
+418,Energy,Julie Thomas,HAL,36.05746914555736
+419,Industrials,Brian RodriguezBrian RodriguezBrian RodriguezBrian RodriguezBrian Rodriguez,NDSNEFXCARRAXONTXT,62.85501705025746
+420,Real Estate,Rebecca AdamsRebecca AdamsRebecca Adams,VTRHSTIRM,36.95596605762618
+421,Industrials,Kevin PonceKevin Ponce,WABOTIS,47.563404367959954
+422,Information Technology,Elizabeth RodriguezElizabeth Rodriguez,HPECDW,24.792527010157443
+423,Financials,Jesus HamiltonJesus HamiltonJesus Hamilton,ALLMANTRS,34.7195090427854
+424,Health Care,Thomas AlexanderThomas Alexander,CVSRVTY,32.094716061309605
+425,Materials,Matthew HarmonMatthew Harmon,VMCPKG,43.38596090393945
+426,Real Estate,Ricardo TaylorRicardo Taylor,BXPWELL,31.106219183060354
+427,Industrials,Kaitlin DavisKaitlin Davis,CATDAY,36.09425166098365
+428,Industrials,Jason CollinsJason CollinsJason Collins,ROLCPRTROK,36.593998118103144
+429,Financials,Robert Hampton,KEY,30.499010478459372
+430,Real Estate,Heather SantiagoHeather Santiago,KIMARE,36.68315218872042
+431,Financials,Dawn Calderon,KEY,53.7766893649638
+432,Materials,Bruce Mayer,AMCR,31.235341000271745
+433,Energy,Richard BrownRichard Brown,HALVLO,37.96768131611201
+434,Information Technology,Todd ParkerTodd ParkerTodd Parker,NOWLRCXACN,29.069741127627456
+435,Health Care,Brandon HudsonBrandon Hudson,ALGNLLY,33.6839563235195
+436,Consumer Discretionary,Michael RodriguezMichael RodriguezMichael Rodriguez,WYNNBWACMG,51.67126765844068
+437,Real Estate,Jordan AlexanderJordan AlexanderJordan Alexander,DOCHSTCSGP,42.810173160157014
+438,Consumer Discretionary,Mr. Kevin MarshMr. Kevin Marsh,CCLULTA,34.76937261940496
+439,Information Technology,Jeremy JohnsonJeremy Johnson,ENPHTEL,46.9622289183374
+440,Financials,Lisa CarrLisa CarrLisa Carr,SPGICBOEWTW,45.67674964101644
+441,Industrials,Nicholas HaysNicholas Hays,RHIDE,29.05813744158295
+442,Utilities,Carl HarmonCarl Harmon,EXCAEP,35.45771125321819
+443,Information Technology,Bryan MccoyBryan Mccoy,MPWRANET,29.69652346272514
+444,Financials,Christopher MartinezChristopher Martinez,MABRO,34.59079432121239
+445,Materials,Kristen DelgadoKristen Delgado,FCXDOW,24.329206648173336
+446,Consumer Staples,William YoungWilliam YoungWilliam YoungWilliam Young,CLXSYYSTZMNST,50.3954093355707
+447,Health Care,Kimberly Simmons,TECH,41.98551971204004
+448,Information Technology,Matthew WashingtonMatthew Washington,INTUKLAC,54.0845545608571
+449,Information Technology,Heather FrancisHeather FrancisHeather Francis,QCOMSNPSIBM,44.13337151869236
+450,Industrials,Mindy McdonaldMindy Mcdonald,GDBR,27.184017951820778
+451,Consumer Staples,Christian Williams,WMT,34.489316826844465
+452,Consumer Staples,Timothy MirandaTimothy Miranda,MKCCOST,45.42836910099974
+453,Industrials,Tiffany ChapmanTiffany ChapmanTiffany Chapman,UALRHIURI,32.19801215854144
+454,Industrials,Jay RichardsonJay RichardsonJay RichardsonJay Richardson,PNRTTCATDAY,63.5227213283308
+455,Consumer Staples,Wyatt KingWyatt King,DLTRKVUE,34.506367545527176
+456,Information Technology,Laurie Carroll,TER,32.233423040969555
+457,Information Technology,Michael SchneiderMichael SchneiderMichael SchneiderMichael Schneider,INTCHPQTXNINTU,39.324050037952475
+458,Industrials,Rachel Mcdonald,GE,55.108347520384335
+459,Information Technology,Gary SmithGary SmithGary Smith,CRMSTXANSS,26.240164097903786
+460,Real Estate,Kayla Velasquez,IRM,41.41730323650397
+461,Industrials,Linda McdanielLinda Mcdaniel,PAYXLDOS,47.47730651213199
+462,Financials,Rebecca HoganRebecca HoganRebecca Hogan,ACGLPNCFIS,40.97240290126544
+463,Utilities,James ShawJames Shaw,CEGATO,35.755450786909144
+464,Consumer Staples,Deborah MathisDeborah Mathis,DLTRSJM,29.932933154299473
+465,Industrials,Barry AndersonBarry AndersonBarry Anderson,XYLGNRCDOV,43.00874795434283
+466,Consumer Discretionary,Jacqueline MillerJacqueline Miller,CMGHLT,34.65014160042927
+467,Industrials,Richard RileyRichard Riley,PAYCBR,46.75729897963217
+468,Information Technology,Elizabeth TurnerElizabeth TurnerElizabeth Turner,KLACTRMBAAPL,52.19609371501989
+469,Industrials,Jimmy StanleyJimmy StanleyJimmy Stanley,XYLPNRGD,47.11091211065404
+470,Financials,Mary CohenMary CohenMary Cohen,BLKMANTRS,26.11095260501603
+471,Industrials,Alexander FisherAlexander FisherAlexander FisherAlexander Fisher,OTISGNRCUBERLMT,54.96461279242817
+472,Industrials,Mrs. Suzanne MaldonadoMrs. Suzanne MaldonadoMrs. Suzanne Maldonado,DEAALWM,48.75694495661888
+473,Information Technology,Chelsea ScottChelsea ScottChelsea Scott,ANSSMSIAAPL,33.714948987503554
+474,Utilities,Nancy McguireNancy Mcguire,SRECMS,41.90211624035028
+475,Utilities,Kenneth Stewart,NI,27.773996054020778
+476,Consumer Staples,Eileen HillEileen Hill,DLTRCLX,40.45049451377734
+477,Industrials,Sheena HollandSheena Holland,BLDRPAYX,29.01136175603003
+478,Real Estate,Andrea AndersonAndrea AndersonAndrea Anderson,DOCHSTCSGP,48.729527026534186
+479,Energy,Christopher Young,MRO,38.05290654775611
+480,Financials,Bethany PowellBethany PowellBethany Powell,FITBJKHYDFS,45.97139041110195
+481,Health Care,James BennettJames Bennett,MCKHUM,26.354789382620833
+482,Utilities,James DoyleJames Doyle,DUKEVRG,38.66481108887605
+483,Industrials,James HenryJames HenryJames HenryJames Henry,LUVNSCROKMMM,41.38696830256912
+484,Real Estate,Tyler KnightTyler Knight,HSTCSGP,49.03089607711128
+485,Health Care,William Greer,INCY,32.61380810525842
+486,Health Care,Erin WilsonErin WilsonErin Wilson,ZTSBDXBIO,26.602993644030054
+487,Consumer Discretionary,Christine SandovalChristine SandovalChristine Sandoval,CCLLVSTJX,79.1186600686061
+488,Information Technology,Michael RubioMichael RubioMichael RubioMichael Rubio,SMCITYLPANWSWKS,51.32466278673977
+489,Information Technology,Ryan CoxRyan CoxRyan CoxRyan CoxRyan Cox,CTSHNVDATRMBROPADSK,62.284283713326246
+490,Materials,Madeline TaylorMadeline TaylorMadeline Taylor,PKGNEMDOW,41.65645845620038
+491,Real Estate,Casey Cannon,CSGP,35.8783946180988
+492,Information Technology,Philip Hicks,HPE,21.92748079618067
+493,Health Care,Taylor Sanchez,TECH,27.874488852020622
+494,Health Care,Jeffrey WeaverJeffrey Weaver,CICTLT,42.849864902127536
+495,Consumer Staples,Mary LeeMary Lee,WMTK,41.68257074089014
+496,Materials,Christopher HarveyChristopher Harvey,DDCTVA,44.84362508322367
+497,Health Care,Katrina Galvan,TECH,29.162757443634383
+498,Information Technology,Larry York,AMAT,27.19563544637807
+499,Energy,Barbara NguyenBarbara NguyenBarbara Nguyen,EQTVLOMRO,35.11023241104429
