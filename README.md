@@ -1,6 +1,8 @@
 # Stock Recommender System
 
 This repository contains the code for a Stock Recommender System built using Streamlit. The system recommends stocks based on sector and risk similarity for users with predefined portfolios.
+### You can find the app up and running here: https://stock-recommender.streamlit.app/
+
 
 ## Table of Contents
 
