@@ -2,7 +2,7 @@
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0.87.0-blueviolet.svg)
-![Pandas](https://img.shields.io/badge/Pandas-1.3.3-brightgreen.svg
+![Pandas](https://img.shields.io/badge/Pandas-1.3.3-brightgreen.svg)
 
 This repository contains the code for a Stock Recommender System built using Streamlit. The system recommends stocks based on sector and risk similarity for users with predefined portfolios.
 ### You can find the app up and running here: https://stock-recommender.streamlit.app/
